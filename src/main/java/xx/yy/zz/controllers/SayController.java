@@ -3,7 +3,7 @@ package xx.yy.zz.controllers;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-
+// Basic controller
 @RestController
 @RequestMapping("/say")
 public class SayController {

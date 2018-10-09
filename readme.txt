@@ -1,0 +1,1 @@
+git remote set-url origin https://<username>:<password>@github.com/narulasrinivas/FirstRepository.git
